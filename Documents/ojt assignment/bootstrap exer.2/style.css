@@ -1,0 +1,181 @@
+.navbar{
+    background-color: #fff601;
+    height: 95px;
+    border-bottom: 5px solid #f3de2d;
+}
+
+.navbar-brand{
+    padding-left: 200px;
+}
+
+.navbar-nav{
+    padding-right: 150px;
+}
+
+.nav-link{
+    color: #000000;
+}
+
+.row{
+    background-color: #e6e6e6;
+    margin: 0;
+
+}
+
+.middle{
+    background: #e6e6e6;
+    padding: 0;
+}
+
+.card{
+    border: 0px;
+    border-bottom: 5px solid #c6c6c6;
+    margin: 5px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    width:200px;
+}
+
+.card-image-top{
+    height: 300px;
+    width: 200px;
+}
+
+.card-text{
+    margin-top: -15px;
+}
+
+fieldset{
+    background: #6b6b6b;
+    width: 1349px;
+    border-top: 1px solid #000000;
+    margin: 0px;
+    height: 400px;
+}
+
+legend{
+    text-align: center;
+    height: 60px;
+    width: 450px;
+    background: #000000;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+legend a{
+    color: #fef500;
+}
+
+
+.d-inline-block{
+    width: 300px;   
+    height: 20px;
+    color: #f3de2d;
+    padding-left: 150px;
+    padding-top: 20px;
+    display: inline-block;    
+}
+
+
+.d-inline-block1{
+    color: #ffffff;
+    width: 250px;
+    padding-right: 50px;
+}
+
+.bottom{
+    padding: 0;
+    /* height: 20px; */
+}
+
+.title{
+    padding-top: 20px;
+}
+.bottom-container{
+    background: #3c3c3c;
+    height: 400px;
+    width: 1348px;
+    display: block;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
+    margin: 0;
+}
+
+.footer{
+    margin: 0;
+    background-color:#1f1f1f;
+    height: 50px;
+    border-top: 5px solid  #fff601;
+    border-bottom: 1px  solid #000000;
+}
+
+.footer-left{
+    float: left;
+    padding-top: 15px;
+    padding-left: 140px;
+    display: block;
+    color: #ffffff; 
+}
+
+.footer-right{
+    padding-top: 15px;
+    float: right;
+    padding-right: 130px;  
+    color: #ffffff;
+}
+.email{
+    padding-left: 160px;
+    padding-top: 10px;
+
+}
+
+.button{
+    background: #fef500;
+}
+
+p a{
+    margin: 0px;
+    padding: 0px;
+    color: #fff601;
+}
+
+.bottom-footer{
+    background: #3c3c3c;
+    color: #c0c0c0;
+}
+
+.footer-content{
+    float: left;
+    padding-left: -5    0px;
+    padding-top: 20px;
+    width: 250px;
+    display: inline;
+}
+
+ol{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.footer-links{
+    float: left;
+    margin: 0px;
+    color: #c0c0c0;
+}
+
+.footer-image{
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    float: left;
+    display: inline-block;
+}
+
+ol li a{
+    color: #c0c0c0;
+}
+
+a{
+    color: #b8270a;
+}
